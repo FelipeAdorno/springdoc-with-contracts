@@ -1,7 +1,7 @@
 # springdoc-with-contracts
 This is a POC to generate [springdoc-openapi](https://springdoc.org/) Request/Response examples based on [spring-cloud-contract](https://spring.io/projects/spring-cloud-contract).
 
-#How achieve this:
+# How achieve this:
 
 1. Add @Operation annotation to rest service and set operationId with the folder and the name of the contract.
 
