@@ -9,7 +9,7 @@ This is a POC to generate [springdoc-openapi](https://springdoc.org/) Request/Re
 2. Create SpringBootTest class extending MonkeyAPIDocumentationBase.
 ![operation](images/test_class.png)
 
-3. Rund the test and the openapi.json file will be generated on the openapi folder.
+3. Run the test and the openapi.json file will be generated on the openapi folder.
 ![operation](images/opa_api_json.png)
    
 ##### GET - Contract
