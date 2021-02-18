@@ -3,7 +3,7 @@ This is a POC to generate [springdoc-openapi](https://springdoc.org/) Request/Re
 
 # How achieve this:
 
-1. Add @Operation annotation to rest service and set operationId with the folder and the name of the contract.
+1. Add @Operation annotation to RestService and set operationId with the folder and the name of the contract.
 ![operation](images/operation.png)
    
 2. Create SpringBootTest class extending MonkeyAPIDocumentationBase.
