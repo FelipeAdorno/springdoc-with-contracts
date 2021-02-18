@@ -10,7 +10,7 @@ This is a POC to generate [springdoc-openapi](https://springdoc.org/) Request/Re
 ![operation](images/test_class.png)
 
 3. Run the test and the openapi.json file will be generated on the openapi folder.
-![operation](images/opa_api_json.png)
+   ![operation](images/opa_api_json.png)
    
 ##### GET - Contract
 ![operation](images/GETALL.png)
